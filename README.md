@@ -1,6 +1,6 @@
 # SwiftUI-Animations
 
-This repo contains different type of animations using SwiftUI Framework.
+This repo contains different types of animations using SwiftUI Framework.
 
 # Loading Leaf Animation
 ![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/LeafAnimation/LeafAnimation.gif)
