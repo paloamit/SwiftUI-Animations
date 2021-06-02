@@ -7,27 +7,23 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		919262512659367200174619 /* Arrow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 919262502659367200174619 /* Arrow.swift */; };
-		91926254265936B400174619 /* FillCircle.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91926253265936B400174619 /* FillCircle.swift */; };
-		91BCB6FE263EE9F90085E5CD /* DownloadButtonAnimationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91BCB6FD263EE9F90085E5CD /* DownloadButtonAnimationApp.swift */; };
-		91BCB700263EE9F90085E5CD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91BCB6FF263EE9F90085E5CD /* ContentView.swift */; };
-		91BCB702263EE9FD0085E5CD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91BCB701263EE9FD0085E5CD /* Assets.xcassets */; };
-		91BCB705263EE9FD0085E5CD /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91BCB704263EE9FD0085E5CD /* Preview Assets.xcassets */; };
+		91EAF34E26667C6F00506549 /* CircularRingAnimationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91EAF34D26667C6F00506549 /* CircularRingAnimationApp.swift */; };
+		91EAF35026667C6F00506549 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91EAF34F26667C6F00506549 /* ContentView.swift */; };
+		91EAF35226667C7000506549 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91EAF35126667C7000506549 /* Assets.xcassets */; };
+		91EAF35526667C7000506549 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 91EAF35426667C7000506549 /* Preview Assets.xcassets */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		919262502659367200174619 /* Arrow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Arrow.swift; sourceTree = "<group>"; };
-		91926253265936B400174619 /* FillCircle.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FillCircle.swift; sourceTree = "<group>"; };
-		91BCB6FA263EE9F90085E5CD /* DownloadButtonAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DownloadButtonAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		91BCB6FD263EE9F90085E5CD /* DownloadButtonAnimationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DownloadButtonAnimationApp.swift; sourceTree = "<group>"; };
-		91BCB6FF263EE9F90085E5CD /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
-		91BCB701263EE9FD0085E5CD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		91BCB704263EE9FD0085E5CD /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
-		91BCB706263EE9FD0085E5CD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		91EAF34A26667C6F00506549 /* CircularRingAnimation.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CircularRingAnimation.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		91EAF34D26667C6F00506549 /* CircularRingAnimationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircularRingAnimationApp.swift; sourceTree = "<group>"; };
+		91EAF34F26667C6F00506549 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		91EAF35126667C7000506549 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		91EAF35426667C7000506549 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		91EAF35626667C7000506549 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		91BCB6F7263EE9F90085E5CD /* Frameworks */ = {
+		91EAF34726667C6F00506549 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -37,40 +33,38 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		91BCB6F1263EE9F90085E5CD = {
+		91EAF34126667C6F00506549 = {
 			isa = PBXGroup;
 			children = (
-				91BCB6FC263EE9F90085E5CD /* DownloadButtonAnimation */,
-				91BCB6FB263EE9F90085E5CD /* Products */,
+				91EAF34C26667C6F00506549 /* CircularRingAnimation */,
+				91EAF34B26667C6F00506549 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		91BCB6FB263EE9F90085E5CD /* Products */ = {
+		91EAF34B26667C6F00506549 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				91BCB6FA263EE9F90085E5CD /* DownloadButtonAnimation.app */,
+				91EAF34A26667C6F00506549 /* CircularRingAnimation.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		91BCB6FC263EE9F90085E5CD /* DownloadButtonAnimation */ = {
+		91EAF34C26667C6F00506549 /* CircularRingAnimation */ = {
 			isa = PBXGroup;
 			children = (
-				91BCB6FD263EE9F90085E5CD /* DownloadButtonAnimationApp.swift */,
-				91BCB6FF263EE9F90085E5CD /* ContentView.swift */,
-				91BCB701263EE9FD0085E5CD /* Assets.xcassets */,
-				91BCB706263EE9FD0085E5CD /* Info.plist */,
-				91BCB703263EE9FD0085E5CD /* Preview Content */,
-				919262502659367200174619 /* Arrow.swift */,
-				91926253265936B400174619 /* FillCircle.swift */,
+				91EAF34D26667C6F00506549 /* CircularRingAnimationApp.swift */,
+				91EAF34F26667C6F00506549 /* ContentView.swift */,
+				91EAF35126667C7000506549 /* Assets.xcassets */,
+				91EAF35626667C7000506549 /* Info.plist */,
+				91EAF35326667C7000506549 /* Preview Content */,
 			);
-			path = DownloadButtonAnimation;
+			path = CircularRingAnimation;
 			sourceTree = "<group>";
 		};
-		91BCB703263EE9FD0085E5CD /* Preview Content */ = {
+		91EAF35326667C7000506549 /* Preview Content */ = {
 			isa = PBXGroup;
 			children = (
-				91BCB704263EE9FD0085E5CD /* Preview Assets.xcassets */,
+				91EAF35426667C7000506549 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
 			sourceTree = "<group>";
@@ -78,38 +72,38 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		91BCB6F9263EE9F90085E5CD /* DownloadButtonAnimation */ = {
+		91EAF34926667C6F00506549 /* CircularRingAnimation */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 91BCB709263EE9FD0085E5CD /* Build configuration list for PBXNativeTarget "DownloadButtonAnimation" */;
+			buildConfigurationList = 91EAF35926667C7000506549 /* Build configuration list for PBXNativeTarget "CircularRingAnimation" */;
 			buildPhases = (
-				91BCB6F6263EE9F90085E5CD /* Sources */,
-				91BCB6F7263EE9F90085E5CD /* Frameworks */,
-				91BCB6F8263EE9F90085E5CD /* Resources */,
+				91EAF34626667C6F00506549 /* Sources */,
+				91EAF34726667C6F00506549 /* Frameworks */,
+				91EAF34826667C6F00506549 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = DownloadButtonAnimation;
-			productName = DownloadButtonAnimation;
-			productReference = 91BCB6FA263EE9F90085E5CD /* DownloadButtonAnimation.app */;
+			name = CircularRingAnimation;
+			productName = CircularRingAnimation;
+			productReference = 91EAF34A26667C6F00506549 /* CircularRingAnimation.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		91BCB6F2263EE9F90085E5CD /* Project object */ = {
+		91EAF34226667C6F00506549 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastSwiftUpdateCheck = 1200;
-				LastUpgradeCheck = 1200;
+				LastSwiftUpdateCheck = 1230;
+				LastUpgradeCheck = 1230;
 				TargetAttributes = {
-					91BCB6F9263EE9F90085E5CD = {
-						CreatedOnToolsVersion = 12.0;
+					91EAF34926667C6F00506549 = {
+						CreatedOnToolsVersion = 12.3;
 					};
 				};
 			};
-			buildConfigurationList = 91BCB6F5263EE9F90085E5CD /* Build configuration list for PBXProject "DownloadButtonAnimation" */;
+			buildConfigurationList = 91EAF34526667C6F00506549 /* Build configuration list for PBXProject "CircularRingAnimation" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -117,44 +111,42 @@
 				en,
 				Base,
 			);
-			mainGroup = 91BCB6F1263EE9F90085E5CD;
-			productRefGroup = 91BCB6FB263EE9F90085E5CD /* Products */;
+			mainGroup = 91EAF34126667C6F00506549;
+			productRefGroup = 91EAF34B26667C6F00506549 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				91BCB6F9263EE9F90085E5CD /* DownloadButtonAnimation */,
+				91EAF34926667C6F00506549 /* CircularRingAnimation */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		91BCB6F8263EE9F90085E5CD /* Resources */ = {
+		91EAF34826667C6F00506549 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				91BCB705263EE9FD0085E5CD /* Preview Assets.xcassets in Resources */,
-				91BCB702263EE9FD0085E5CD /* Assets.xcassets in Resources */,
+				91EAF35526667C7000506549 /* Preview Assets.xcassets in Resources */,
+				91EAF35226667C7000506549 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		91BCB6F6263EE9F90085E5CD /* Sources */ = {
+		91EAF34626667C6F00506549 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				91926254265936B400174619 /* FillCircle.swift in Sources */,
-				91BCB700263EE9F90085E5CD /* ContentView.swift in Sources */,
-				91BCB6FE263EE9F90085E5CD /* DownloadButtonAnimationApp.swift in Sources */,
-				919262512659367200174619 /* Arrow.swift in Sources */,
+				91EAF35026667C6F00506549 /* ContentView.swift in Sources */,
+				91EAF34E26667C6F00506549 /* CircularRingAnimationApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin XCBuildConfiguration section */
-		91BCB707263EE9FD0085E5CD /* Debug */ = {
+		91EAF35726667C7000506549 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -205,7 +197,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
 				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
 				MTL_FAST_MATH = YES;
 				ONLY_ACTIVE_ARCH = YES;
@@ -215,7 +207,7 @@
 			};
 			name = Debug;
 		};
-		91BCB708263EE9FD0085E5CD /* Release */ = {
+		91EAF35826667C7000506549 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -260,7 +252,7 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.3;
 				MTL_ENABLE_DEBUG_INFO = NO;
 				MTL_FAST_MATH = YES;
 				SDKROOT = iphoneos;
@@ -270,42 +262,42 @@
 			};
 			name = Release;
 		};
-		91BCB70A263EE9FD0085E5CD /* Debug */ = {
+		91EAF35A26667C7000506549 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"DownloadButtonAnimation/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"CircularRingAnimation/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = DownloadButtonAnimation/Info.plist;
+				INFOPLIST_FILE = CircularRingAnimation/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mobility.DownloadButtonAnimation;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mobility.CircularRingAnimation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
-		91BCB70B263EE9FD0085E5CD /* Release */ = {
+		91EAF35B26667C7000506549 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_ASSET_PATHS = "\"DownloadButtonAnimation/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"CircularRingAnimation/Preview Content\"";
 				ENABLE_PREVIEWS = YES;
-				INFOPLIST_FILE = DownloadButtonAnimation/Info.plist;
+				INFOPLIST_FILE = CircularRingAnimation/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = com.mobility.DownloadButtonAnimation;
+				PRODUCT_BUNDLE_IDENTIFIER = com.mobility.CircularRingAnimation;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -315,25 +307,25 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		91BCB6F5263EE9F90085E5CD /* Build configuration list for PBXProject "DownloadButtonAnimation" */ = {
+		91EAF34526667C6F00506549 /* Build configuration list for PBXProject "CircularRingAnimation" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				91BCB707263EE9FD0085E5CD /* Debug */,
-				91BCB708263EE9FD0085E5CD /* Release */,
+				91EAF35726667C7000506549 /* Debug */,
+				91EAF35826667C7000506549 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		91BCB709263EE9FD0085E5CD /* Build configuration list for PBXNativeTarget "DownloadButtonAnimation" */ = {
+		91EAF35926667C7000506549 /* Build configuration list for PBXNativeTarget "CircularRingAnimation" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				91BCB70A263EE9FD0085E5CD /* Debug */,
-				91BCB70B263EE9FD0085E5CD /* Release */,
+				91EAF35A26667C7000506549 /* Debug */,
+				91EAF35B26667C7000506549 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
-	rootObject = 91BCB6F2263EE9F90085E5CD /* Project object */;
+	rootObject = 91EAF34226667C6F00506549 /* Project object */;
 }

@@ -3,7 +3,7 @@
 import SwiftUI
 
 @main
-struct DownloadButtonAnimationApp: App {
+struct CircularRingAnimationApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
