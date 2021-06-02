@@ -32,7 +32,7 @@ This repo contains different types of animations using SwiftUI Framework.
 
 [Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/ExtendedFlowerLoadingAnimation)
 
-# Upload/Download Button Animation (A Seperate Varient)
+# Upload/Download Button Animation (A Separate Varient)
 ![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/UploadButtonAnimation/Upload%20Button%20Animation.gif)
 
 [Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/UploadButtonAnimation)
