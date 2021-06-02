@@ -36,3 +36,8 @@ This repo contains different types of animations using SwiftUI Framework.
 ![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/UploadButtonAnimation/Upload%20Button%20Animation.gif)
 
 [Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/UploadButtonAnimation)
+
+# Proccessing Animation
+![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/Videos/Proccessing%20Animation.gif)
+
+[Source Code](https://www.patreon.com/posts/processing-using-52020202?utm_medium=clipboard_copy&utm_source=copy_to_clipboard&utm_campaign=postshare)
