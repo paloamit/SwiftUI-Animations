@@ -40,4 +40,9 @@ This repo contains different types of animations using SwiftUI Framework.
 # Proccessing Animation
 ![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/Videos/Proccessing%20Animation.gif)
 
-[Source Code](https://www.patreon.com/posts/processing-using-52020202?utm_medium=clipboard_copy&utm_source=copy_to_clipboard&utm_campaign=postshare)
+[Source Code](https://www.patreon.com/posts/processing-using-52020202)
+
+# DNA Loading Animation
+![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/Videos/DNA%20Loading%20Animation.gif)
+
+[Source Code](https://www.patreon.com/posts/dna-loading-52024753)
