@@ -27,7 +27,7 @@ This repo contains different types of animations using SwiftUI Framework.
 
 [Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/LineLoadingAnimation)
 
-# Flower Loading Animation (A Seperate Varient)
+# Flower Loading Animation (A Separate Varient)
 ![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/ExtendedFlowerLoadingAnimation/Flower%20Loading%20Animation.gif)
 
 [Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/ExtendedFlowerLoadingAnimation)
