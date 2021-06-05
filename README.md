@@ -46,3 +46,8 @@ This repo contains different types of animations using SwiftUI Framework.
 ![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/Videos/DNA%20Loading%20Animation.gif)
 
 [Source Code](https://www.patreon.com/posts/dna-loading-52024753)
+
+# Ring Animation
+![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/RingAnimation/Another%20Ring%20Animation.gif)
+
+[Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/RingAnimation)
