@@ -61,3 +61,8 @@ This repo contains different types of animations using SwiftUI Framework.
 ![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/EForEyesAnimation/E%20For%20Eye%20Animation.gif)
 
 [Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/EForEyesAnimation)
+
+# WLAN Search Animation
+![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/WLANSearchAnimation/WLAN%20Search%20Animation.gif)
+
+[Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/WLANSearchAnimation)
