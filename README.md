@@ -66,3 +66,13 @@ This repo contains different types of animations using SwiftUI Framework.
 ![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/WLANSearchAnimation/WLAN%20Search%20Animation.gif)
 
 [Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/WLANSearchAnimation)
+
+# Feast Your Peepers Animation
+![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/Videos/Feast%20your%20peepers%20animation.gif)
+
+[Source Code](https://www.patreon.com/posts/feast-your-52745318)
+
+# Ghost Animation
+![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/Videos/Ghost%20Animation.gif)
+
+[Source Code](https://www.patreon.com/posts/ghost-animation-52946973)
