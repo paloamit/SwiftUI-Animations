@@ -76,3 +76,8 @@ This repo contains different types of animations using SwiftUI Framework.
 ![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/Videos/Ghost%20Animation.gif)
 
 [Source Code](https://www.patreon.com/posts/ghost-animation-52946973)
+
+# Bees And Bomb Animation
+![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/BeesAndBombAnimation/Bees%20And%20Bomb%20Animation.gif)
+
+[Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/BeesAndBombAnimation)
