@@ -3,4 +3,54 @@
    uuid = "17DFDFF5-60BE-4955-8C10-D2E8685FEDC0"
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5A9D89D9-702B-4818-B7EF-3C712E296DEA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BeesAndBombAnimation/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "ContentView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "5A9D89D9-702B-4818-B7EF-3C712E296DEA - dcb95332f4a5b279"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BeesAndBombAnimation.ContentView.init() -&gt; BeesAndBombAnimation.ContentView"
+                  moduleName = "BeesAndBombAnimation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitpalo/Desktop/SwiftUI-Animations/BeesAndBombAnimation/BeesAndBombAnimation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "144">
+               </Location>
+               <Location
+                  uuid = "5A9D89D9-702B-4818-B7EF-3C712E296DEA - f583b8cd6480d53"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BeesAndBombAnimation.ContentView.init(isAnimating: Swift.Bool) -&gt; BeesAndBombAnimation.ContentView"
+                  moduleName = "BeesAndBombAnimation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/amitpalo/Desktop/SwiftUI-Animations/BeesAndBombAnimation/BeesAndBombAnimation/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
