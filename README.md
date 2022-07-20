@@ -82,6 +82,11 @@ This repo contains different types of animations using SwiftUI Framework.
 
 [Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/BeesAndBombAnimation)
 
+# Square Loading Animation
+![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/AnimatedCircles/Animated%20Circles.gif)
+
+[Source Code](https://www.patreon.com/posts/square-animation-69332408)
+
 # Animated Circles
 ![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/AnimatedCircles/Animated%20Circles.gif)
 
