@@ -91,3 +91,8 @@ This repo contains different types of animations using SwiftUI Framework.
 ![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/AnimatedCircles/Animated%20Circles.gif)
 
 [Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/AnimatedCircles)
+
+# Radar Animation
+![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/RadarAnimation/Radar%20Animation.gif)
+
+[Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/RadarAnimation)
