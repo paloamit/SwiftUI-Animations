@@ -96,3 +96,8 @@ This repo contains different types of animations using SwiftUI Framework.
 ![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/RadarAnimation/Radar%20Animation.gif)
 
 [Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/RadarAnimation)
+
+# Infinite Loop Animation
+![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/InfiniteLoopAnimation/Infinite%20Loader%20Animation.gif)
+
+[Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/InfiniteLoopAnimation)
