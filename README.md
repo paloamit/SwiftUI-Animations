@@ -101,3 +101,8 @@ This repo contains different types of animations using SwiftUI Framework.
 ![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/InfiniteLoopAnimation/Infinite%20Loader%20Animation.gif)
 
 [Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/InfiniteLoopAnimation)
+
+# Loading Capsule Animation
+![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/LoaderXLVIIAnimation/Loading%20Capsule%20Animation.gif)
+
+[Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/LoaderXLVIIAnimation)
