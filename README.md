@@ -111,3 +111,8 @@ This repo contains different types of animations using SwiftUI Framework.
 ![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/Videos/3%20Ball%20Drop%20Animation.gif)
 
 [Source Code](https://www.patreon.com/posts/3-ball-drop-70970436)
+
+# 3 Ball Loader Animation
+![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/Videos/3%20Ball%20Loader%20Animation.gif)
+
+[Source Code](https://www.patreon.com/posts/3-ball-drop-71506920)
