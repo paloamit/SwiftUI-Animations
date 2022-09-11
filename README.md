@@ -116,3 +116,8 @@ This repo contains different types of animations using SwiftUI Framework.
 ![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/Videos/3%20Ball%20Loader%20Animation.gif)
 
 [Source Code](https://www.patreon.com/posts/3-ball-drop-71506920)
+
+# 3 Infinite Loop Loading Animation
+![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/Videos/Infinite%20Loop%20Animation.gif)
+
+[Source Code](https://www.patreon.com/posts/infinite-loading-71814711)
