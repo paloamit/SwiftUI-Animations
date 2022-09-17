@@ -123,6 +123,6 @@ This repo contains different types of animations using SwiftUI Framework.
 [Source Code](https://www.patreon.com/posts/infinite-loading-71814711)
 
 # Heart Loading Animation
-![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/Videos/Infinite%20Loop%20Animation.gif)
+![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/HeartAnimation/Heart%20Loading%20Animation.gif)
 
-[Source Code](https://www.patreon.com/posts/infinite-loading-71814711)
+[Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/HeartAnimation)
