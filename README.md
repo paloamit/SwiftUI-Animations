@@ -126,3 +126,8 @@ This repo contains different types of animations using SwiftUI Framework.
 ![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/HeartAnimation/Heart%20Loading%20Animation.gif)
 
 [Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/HeartAnimation)
+
+# Loading Semi Circle Animation
+![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/LoadingSemiCircleAnimation/Loading%20Semi%20Circle%20Animation.gif)
+
+[Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/LoadingSemiCircleAnimation)
