@@ -131,3 +131,8 @@ This repo contains different types of animations using SwiftUI Framework.
 ![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/LoadingSemiCircleAnimation/Loading%20Semi%20Circle%20Animation.gif)
 
 [Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/LoadingSemiCircleAnimation)
+
+# Solar Eclipse Animation
+![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/Videos/Solar%20Eclipse%20Animation.gif)
+
+[Source Code](https://www.patreon.com/posts/solar-eclipse-72529727)
