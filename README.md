@@ -143,6 +143,6 @@ This repo contains different types of animations using SwiftUI Framework.
 [Source Code](https://www.patreon.com/posts/matrix-rain-73338611)
 
 # Circular Menu Animation
-![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/Videos/Matrix%20Rain%20Effect%20Animation.gif)
+![Alt Text](https://github.com/paloamit/SwiftUI-Animations/blob/main/CircularMenuAnimation/Circle%20Menu%20Animation.mp4)
 
-[Source Code](https://www.patreon.com/posts/matrix-rain-73338611)
+[Source Code](https://github.com/paloamit/SwiftUI-Animations/tree/main/CircularMenuAnimation)
